@@ -23,5 +23,5 @@
   - [git 学习⛳](Git/Git基础.md)
 - 后端服务
   - [MongoDB 基础⛄](Serverless/MongoDB基础.md)
-  - [NodeJS 模块🌋](Severless/NodeJS模块.md)
-  - [Serverless✊](Severless/serverless.md)
+  - [NodeJS 模块🌋](Baas/NodeJS模块.md)
+  - [Serverless✊](Baas/serverless.md)
