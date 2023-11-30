@@ -1,9 +1,5 @@
 # 目录
 
-另一个基于 Vuepress、serverless 部署的静态网站地址为：杯无(http://my-bucket-1300522369.cos-website.ap-guangzhou.myqcloud.com/)；
-同时，语雀(https://www.yuque.com/yeyuzhufeng/kb) 也有相应文档。
-
-
 - HTML5 + CSS3
   - [HTML5 基础 ☘](H5C3/HTML5.md)
   - [CSS 基础 ☄](H5C3/CSS3基础.md)
